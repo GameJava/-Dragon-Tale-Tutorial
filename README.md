@@ -9,7 +9,7 @@
 <h1>Giấy phép</h1>
 <!--  -->
 <p>
-		<a href="https://github.com/GameJava/-Dragon-Tale-Tutorial/edit/develop/LICENSE.md">MIT License</a> Copyright &copy; 2018 Game Tale Tutorial
+		<a href="https://github.com/GameJava/-Dragon-Tale-Tutorial/blob/develop/LICENSE">MIT License</a> Copyright &copy; 2018 Game Tale Tutorial
 	</p>
 
 
