@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\admin\Desktop\Dragon-Tale-Tutorial.jar</jar>
-  <outfile>C:\Users\admin\Desktop\Gamedragon.exe</outfile>
+  <jar>C:\Users\admin\Desktop\File Báo Cáo\Dragon-Tale-Tutorial.jar</jar>
+  <outfile>C:\Users\admin\Desktop\File Báo Cáo\game\game.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
